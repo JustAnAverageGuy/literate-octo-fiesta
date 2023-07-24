@@ -22,10 +22,6 @@ Solve the following [Cryptohack challenges](https://cryptohack.org/challenges/):
         - ALL
     - PUBLIC EXPONENT
         - Salty
-- DIFFIE HELLMAN
-    - STARTER
-        - ALL
-
 ---
 
 Solve these challenges from the repository:
