@@ -7,7 +7,7 @@ Solve the following [Cryptohack challenges](https://cryptohack.org/challenges/):
     - ALL
 - GENERAL
     - ENCODING
-        - ALL 
+        - ALL except "Encoding Challenge"
     - XOR
         - ALL except "Lemur XOR" (you can quickly whip up a script if you want to solve it, or use software like GIMP, Photoshop, or maybe Paint.NET)
     - MATHEMATICS
@@ -20,8 +20,6 @@ Solve the following [Cryptohack challenges](https://cryptohack.org/challenges/):
 - RSA
     - STARTER
         - ALL
-    - PRIMES PART 1
-        -  All except  "Manyprime" (solvable if you want to)
     - PUBLIC EXPONENT
         - Salty
 - DIFFIE HELLMAN
